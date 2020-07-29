@@ -26,7 +26,7 @@ function Banner(props) {
             style={{ transform: 'translateX(-64px)' }}
           />
         </div>
-        <h1 key="h1">Let's Crearé</h1>
+        <h1 id="lets" key="h1">Let's Crearé</h1>
         <p key="content">
           LEARN ANYWHERE
         </p>

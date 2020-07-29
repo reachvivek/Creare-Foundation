@@ -50,27 +50,6 @@ const featuresCN = [
     color: '#722ED1',
     shadowColor: 'rgba(114,46,209,.12)',
   },
-  {
-    title: 'Live Classes',
-    content: '',
-    src: 'https://gw.alipayobjects.com/zos/rmsportal/pbmKMSFpLurLALLNliUQ.svg',
-    color: '#FA8C16',
-    shadowColor: 'rgba(250,140,22,.12)',
-  },
-  {
-    title: 'Engaging Video Lessons',
-    content: '',
-    src: 'https://gw.alipayobjects.com/zos/rmsportal/aLQyKyUyssIUhHTZqCIb.svg',
-    color: '#EB2F96',
-    shadowColor: 'rgba(235,45,150,.12)',
-  },
-  {
-    title: 'Personalized Learning Mapped To Syllabus',
-    content: '',
-    src: 'https://gw.alipayobjects.com/zos/rmsportal/RpJIQitGbSCHwLMimybX.svg',
-    color: '#1890FF',
-    shadowColor: 'rgba(24,144,255,.12)',
-  },
 ];
 
 const pointPos = [

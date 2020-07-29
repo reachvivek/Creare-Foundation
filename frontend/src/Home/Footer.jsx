@@ -9,12 +9,7 @@ function Footer() {
         <Row>
                     
           <Col lg={5} sm={24} xs={24}>
-            <div className="footer-center">
-              <h2>ABOUT US</h2>
-              <div className="address">              
-                <p autoCapitalize='true'>42A, NSC Bose Road, Ullagaram<br/>Chennai - 600 091<br/>India</p>
-              </div>
-              
+            <div className="footer-center">             
               <h2>CONTACT US</h2>
               <div className="contactus">                
               
